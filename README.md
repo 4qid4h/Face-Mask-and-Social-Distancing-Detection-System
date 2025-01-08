@@ -1,6 +1,6 @@
 # Face-Mask-and-Social-Distancing-Detection-System
 
-Dataset face with face mask and without facemask : <br>
+Dataset of faces with face masks and without face masks : <br>
 https://www.kaggle.com/datasets/shantanu1118/face-mask-detection-dataset-with-4k-samples 
 
 Output : <br>
